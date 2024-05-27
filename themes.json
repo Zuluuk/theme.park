@@ -73,7 +73,7 @@
         },
         "retro-terminal": {
           "css": [
-            "https://zuluuk.github.io\n/css/addons/unraid/login-page/retro-terminal/white.css?sha=d735c2c32bdc72ff306fe83dd20c6375",
+            "https://zuluuk.github.io\n/css/addons/unraid/login-page/retro-terminal/white.css?sha=3ae1bc28043306adf11a973840f53ff6",
             "https://zuluuk.github.io\n/css/addons/unraid/login-page/retro-terminal/blue.css?sha=a077cff4bd9a8b1fee1615f0106bf814",
             "https://zuluuk.github.io\n/css/addons/unraid/login-page/retro-terminal/amber.css?sha=d7c37a11f8ddc0583e874a4768828d6c",
             "https://zuluuk.github.io\n/css/addons/unraid/login-page/retro-terminal/custom.css?sha=ca7865d4e5b5b8047a407a738680bd34",
@@ -452,7 +452,7 @@
           },
           "retro-terminal": {
             "css": [
-              "https://zuluuk.github.io\n/css/addons/unraid/login-page/retro-terminal/white.css?sha=d735c2c32bdc72ff306fe83dd20c6375",
+              "https://zuluuk.github.io\n/css/addons/unraid/login-page/retro-terminal/white.css?sha=3ae1bc28043306adf11a973840f53ff6",
               "https://zuluuk.github.io\n/css/addons/unraid/login-page/retro-terminal/blue.css?sha=a077cff4bd9a8b1fee1615f0106bf814",
               "https://zuluuk.github.io\n/css/addons/unraid/login-page/retro-terminal/amber.css?sha=d7c37a11f8ddc0583e874a4768828d6c",
               "https://zuluuk.github.io\n/css/addons/unraid/login-page/retro-terminal/custom.css?sha=ca7865d4e5b5b8047a407a738680bd34",
