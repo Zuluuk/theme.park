@@ -1,7 +1,7 @@
 #!/bin/bash
 TYPE="retro-terminal"
 THEME="red.css"
-DOMAIN="github.com/zuluuk"
+DOMAIN="zuluuk"
 SCHEME="https"
 ADD_JS="true"
 JS="custom_text_header.js"
