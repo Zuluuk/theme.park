@@ -9,8 +9,8 @@
 --main-bg-color:black;
 --body-before:#70d7f61a;
 --body-after: #70d7f633;
---body-animation: flicker;
---logo: url(/css/addons/unraid/login-page/alien/logo/wings_blue.png) center no-repeat;
+--body-animation: true;
+--logo: url(https://upload.wikimedia.org/wikipedia/commons/6/6f/Zulu_Sheksta_logo.png) center no-repeat;
 --text-color: #70d7f6;
 --input-color: #70d7f6;
 --link-color: #70d7f6;
