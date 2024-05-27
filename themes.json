@@ -463,7 +463,7 @@
           }
         }
       },
-      "base_css": "https://zuluuk.github.io\n/css/base/unraid/unraid-base.css?sha=58b0fdeab5955805ee2af9b6107bd15e"
+      "base_css": "https://zuluuk.github.io\n/css/base/unraid/unraid-base.css?sha=670dbf17bf96292f88a5d3a6b70c500d"
     },
     "uptime-kuma": {
       "addons": {},
